@@ -1,7 +1,5 @@
 # Forest Cover Type Prediction
 
-## Competition
-
 ### https://www.kaggle.com/c/tabular-playground-series-dec-2021
 
 ### Kaggle
